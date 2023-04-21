@@ -1,0 +1,140 @@
+@charset "ISO-8859-1";
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Chivo:wght@600&family=Noto+Sans:wght@600&family=Quicksand:wght@300&family=Roboto&display=swap');
+
+body {
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Chivo', sans-serif;
+}
+
+h5 {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+h6 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+}
+
+.nav {
+    /*background-color: #7bc142;*/
+    margin-top: 10px;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+input {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: medium;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    height: 35px;
+}
+
+select {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: medium;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    height: 35px;
+}
+
+option {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: large;
+}
+
+.tinput {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.cinput {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.dinput {
+    display: flex;
+    justify-content: center;
+}
+
+.precio {
+    display: flex;
+    justify-content: center;
+}
+
+.infogeneral {
+    margin-top: 50px;
+    background-color: #7bc142;
+    height: auto;
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    width: auto;
+}
+
+.info1 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info2 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info3 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info4 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

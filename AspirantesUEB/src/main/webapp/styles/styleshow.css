@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Chivo:wght@600&family=Noto+Sans:wght@600&family=Quicksand:wght@300&family=Roboto&display=swap');
+
+body {
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Chivo', sans-serif;
+}
+
+h5 {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+h6 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav {
+    margin-top: 10px;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    background-color: #7bc142;
+    margin-right: 20px;
+}
+
+.botones {
+    display: flex;
+    margin-top: 20px;
+}
+
+.btn1 {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    width: 50%;
+}
+
+.btn2 {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    width: 50%;
+}

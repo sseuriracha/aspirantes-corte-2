@@ -1,0 +1,196 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Chivo:wght@600&family=Noto+Sans:wght@600&family=Quicksand:wght@300&family=Roboto&display=swap');
+
+body {
+    background-color:white;
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Chivo', sans-serif;
+}
+
+h5 {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+h6 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+}
+
+.navigation {
+    margin-top: 20px;
+    background-color: #ffffff;
+    display: flex;
+    height: 180px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav1 {
+    height: auto;
+    width: 20%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.nav2 {
+    height: auto;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav3 {
+    height: auto;
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoub {
+    margin-left: 20px;
+}
+
+.btn {
+    background-color: #7bc142;
+    margin-right: 20px;
+}
+
+.inicio {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel {
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+    height: auto;
+}
+
+.facultades {
+    height: auto;
+    width: 100%;
+}
+
+.cienciasdelasalud {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.cienciassociales {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.cienciaseconomicas {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.ciencias {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.creacion {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.ingenieria {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: auto;
+}
+
+.title {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.career {
+    margin-top: 10px;
+}
+
+.namecareer {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.contentcareer {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.infogeneral {
+    background-color: #7bc142;
+    height: auto;
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    width: auto;
+}
+
+.info1 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info2 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info3 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+.info4 {
+    display: inline-block;
+    height: auto;
+    width: 25%;
+}
+
+footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

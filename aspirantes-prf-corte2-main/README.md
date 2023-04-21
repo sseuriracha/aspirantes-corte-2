@@ -1,1 +1,0 @@
-# aspirantes-corte-2

@@ -28,6 +28,26 @@ This term project allows for the input and database storage of aspiring UEB stud
 * ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Getting Started
+
+### Prerequisites
+
+### Installation
+
+## Usage
+
+## Roadmap
+
+## License
+
+## Contact
+
+* William Andrés Castillo - [E-mail](mailto:wacastillo@unbosque.edu.co)
+* Harold Mauricio Duarte - [E-mail](mailto:hmduarte@unbosque.edu.co)
+* Juan Diego Valderrama - [E-mail](mailto:jvalderramat@unbosque.edu.co)
+* Diego Rodríguez **(Supervising Professor)** - [E-mail](mailto:dferodriguezc@unbosque.edu.co)
+
+
 
 
 

@@ -1,0 +1,104 @@
+@charset "ISO-8859-1";
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Chivo:wght@600&family=Noto+Sans:wght@600&family=Quicksand:wght@300&family=Roboto&display=swap');
+
+body {
+    display: flex;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Chivo', sans-serif;
+}
+
+h5 {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+h6 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    background-color: #7bc142;
+    height: 35px;
+}
+
+.navigation {
+    background-color: #ffffff;
+    display: flex;
+    height: auto;
+}
+
+.nav{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ingresar {
+    display: flex;
+    height: 100vh;
+    width: 450px;
+    background-color: rgba(230, 230, 230, .8);
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+input {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: medium;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    height: 35px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+}
+
+.acceder {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 100px;
+}
+
+.tinput {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.dinput {
+    display: flex;
+    justify-content: center;
+}
+
+.formulario {
+    margin-top: 20px;
+    height: 250px;
+}
